@@ -4,11 +4,11 @@
 I am a full-stack software developer based in Padua, Italy, with a passion for crafting solutions that combine elegant design with efficient functionality.
 
 ## Technical Skills
-- Java programming
-- HTML | CSS | JavaScript (JS)
-- Relational databases (SQL)
-- React
-- CMS (WordPress)
+- 💻 Java programming
+- 🌐 HTML | CSS | JavaScript (JS)
+- 🛢️ Relational databases (SQL)
+- ⚛️ React
+- 📄 CMS (WordPress)
 
 ## Education
 - **Master of Computer Engineering / Web Information and Data Engineering**
