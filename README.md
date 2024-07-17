@@ -1,6 +1,6 @@
 # Seyedreza Safavi
 
-## About Me
+## ℹ️ About Me
 I am a full-stack software developer based in Padua, Italy, with a passion for crafting solutions that combine elegant design with efficient functionality.
 
 ## Technical Skills
@@ -10,7 +10,7 @@ I am a full-stack software developer based in Padua, Italy, with a passion for c
 - ⚛️ React
 - 📄 CMS (WordPress)
 
-## Education
+## 🎓 Education
 - **Master of Computer Engineering / Web Information and Data Engineering**
   University of Padova, Italy  
   2022 – 2024  
@@ -20,9 +20,9 @@ I am a full-stack software developer based in Padua, Italy, with a passion for c
   Yazd University  
   2014 – 2018
 
-## Publications
+## 📚 Publications
 - **SEUPD@CLEF: Team CLOSE on Temporal Persistence of IR Systems’ Performance**  
   CLEF 2023: Conference and Labs of the Evaluation Forum
 
-## Contact Me
+## 📫 Contact Me
 - LinkedIn: [Seyedreza Safavi](https://www.linkedin.com/in/seyedreza-safavi/)
