@@ -7,7 +7,7 @@ I am a full-stack software developer based in Padua, Italy, with a passion for c
 - 💻 Java programming
 - 🌐 HTML | CSS | JavaScript (JS)
 - 🛢️ Relational databases (SQL)
-- ⚛️ React & Angular
+- ⚛️ React & Angular & Flutter
 - 📄 CMS (WordPress)
 
 ## 🎓 Education
