@@ -12,4 +12,4 @@ Building cross-platform mobile and web apps.
 M.Sc. in Computer Engineering — University of Padova (100/110)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/seyedreza-safavi/) · rezasfv36@gmail.com
+[LinkedIn](https://www.linkedin.com/in/seyedreza-safavi/) 
