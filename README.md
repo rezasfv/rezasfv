@@ -1,23 +1,15 @@
 # Seyedreza Safavi
 
-## ℹ️ About Me
-I am a full-stack software developer based in Padua, Italy, with a passion for crafting solutions that combine elegant design with efficient functionality.
+**Flutter Developer** based in Padua, Italy 🇮🇹  
+Building cross-platform mobile and web apps.
 
-## Technical Skills
-- 💻 Java programming
-- 🌐 HTML | CSS | JavaScript (JS)
-- 🛢️ Relational databases (SQL)
-- ⚛️ React & Angular & Flutter
-- 📄 CMS (WordPress)
+### Tech I use
+- **Mobile:** Flutter, Dart, Riverpod
+- **Web:** TypeScript, React, Angular, Tailwind
+- **Other:** REST APIs, SQL, Git, Figma
 
-## 🎓 Education
-- **Master of Computer Engineering / Web Information and Data Engineering**
-  University of Padova, Italy  
-  2022 – 2024  
+### Education
+M.Sc. in Computer Engineering — University of Padova (100/110)
 
-- **Bachelor of Computer Engineering / Software Developer**
-  Yazd University  
-  2014 – 2018
-
-## 📫 Contact Me
-- LinkedIn: [Seyedreza Safavi](https://www.linkedin.com/in/seyedreza-safavi/)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/seyedreza-safavi/) · rezasfv36@gmail.com
