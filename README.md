@@ -1,4 +1,4 @@
-# Seyedreza Safavi
+# Reza Safavi
 
 **Flutter Developer** based in Padua, Italy 🇮🇹  
 Building cross-platform mobile and web apps.
